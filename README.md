@@ -179,7 +179,14 @@ The solution moved beyond reporting and enabled **direct action**, supporting de
 ## Key Insights from the Infographic
 
 The infographic provides a concise, executive-level summary of the most critical procurement patterns identified in the analysis, reinforcing the findings from the dashboards.
-[View the Infographic](case_study_documentation/Case Study Analysis Infographic.pdf)
+
+
+[View the Infographic](./case_study_documentation/Case Study Analysis Infographic.pdf)
+
+<img width="487" height="1222" alt="image" src="https://github.com/user-attachments/assets/99bccbf1-39be-4b26-b105-5775aa493fc8" />
+
+
+
 ### 1. Spend Is Highly Concentrated in a Few Product Categories
 Procurement spend is heavily concentrated in a small number of high-value components.  
 **Frames, Displays, and Batteries together account for approximately 49% of total procurement spend ($10.78M).**
