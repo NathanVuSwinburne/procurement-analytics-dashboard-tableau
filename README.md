@@ -66,7 +66,7 @@ My contributions focused on **extending the project beyond the original requirem
 - Significantly improved the **Cost Savings Analysis dashboard**, making insights more intuitive and executive-friendly  
 - Refined dashboard layout and interactivity to better support **negotiation and strategic decision-making**  
 - Learned **Tableau from scratch** and applied data visualisation and storytelling principles
-- Contributed to completing the infographic that illustrates our insights in an easy and informative way.
+- Contributed to completing the **infographic** that illustrates our insights in an easy and informative way.
 
 ---
 
