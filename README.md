@@ -57,7 +57,7 @@ The Tableau dashboards are organised into three main analytical views:
 ---
 
 ## My Contribution
-This was a **group university project**. The original dashboard concept and overall structure were primarily designed by **Phuong Bao Minh Nguyen**.
+This was a **group university project**. The original dashboard concept and overall structure were primarily designed by **Phuong Bao Minh Nguyen**. And **Gloria Halim** reports documentation and written analysis.
 
 My contributions focused on **extending the project beyond the original requirements**, particularly around usability and decision support:
 
