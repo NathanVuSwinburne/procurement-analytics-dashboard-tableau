@@ -181,7 +181,8 @@ The solution moved beyond reporting and enabled **direct action**, supporting de
 The infographic provides a concise, executive-level summary of the most critical procurement patterns identified in the analysis, reinforcing the findings from the dashboards.
 
 
-[View the Infographic](./case_study_documentation/Case Study Analysis Infographic.pdf)
+[View the Infographic](./case_study_documentation/Case%20Study%20Analysis%20Infographic.pdf)
+
 
 <img width="487" height="1222" alt="image" src="https://github.com/user-attachments/assets/99bccbf1-39be-4b26-b105-5775aa493fc8" />
 
