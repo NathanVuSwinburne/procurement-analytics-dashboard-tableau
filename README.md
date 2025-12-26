@@ -61,6 +61,7 @@ This was a **group university project**. The original dashboard concept and over
 
 My contributions focused on **extending the project beyond the original requirements**, particularly around usability and decision support:
 
+- Cleaned and prepared the raw procurement dataset using **Tableau Prep Builder**, including de-duplication, standardisation, and validation to ensure data quality
 - Designed **additional procurement KPIs** covering cost savings, supplier concentration, and risk exposure  
 - Enhanced **dashboard UX** by adding interactive filters, drill-downs, and navigation elements  
 - Significantly improved the **Cost Savings Analysis dashboard**, making insights more intuitive and executive-friendly  
