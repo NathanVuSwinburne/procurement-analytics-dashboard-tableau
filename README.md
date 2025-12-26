@@ -65,7 +65,8 @@ My contributions focused on **extending the project beyond the original requirem
 - Enhanced **dashboard UX** by adding interactive filters, drill-downs, and navigation elements  
 - Significantly improved the **Cost Savings Analysis dashboard**, making insights more intuitive and executive-friendly  
 - Refined dashboard layout and interactivity to better support **negotiation and strategic decision-making**  
-- Learned **Tableau from scratch** and applied data visualisation and storytelling principles  
+- Learned **Tableau from scratch** and applied data visualisation and storytelling principles
+- Contributed to completing the infographic that illustrates our insights in an easy and informative way.
 
 ---
 
@@ -175,9 +176,66 @@ Senior stakeholders were time-poor and not highly technical, so insights needed 
 The solution moved beyond reporting and enabled **direct action**, supporting decisions around supplier renegotiation, consolidation strategies, and long-term procurement planning.
 
 ---
+## Key Insights from the Infographic
+
+The infographic provides a concise, executive-level summary of the most critical procurement patterns identified in the analysis, reinforcing the findings from the dashboards.
+[View the Infographic](case_study_documentation/Case Study Analysis Infographic.pdf)
+### 1. Spend Is Highly Concentrated in a Few Product Categories
+Procurement spend is heavily concentrated in a small number of high-value components.  
+**Frames, Displays, and Batteries together account for approximately 49% of total procurement spend ($10.78M).**
+
+**Insight:**  
+This level of concentration means that even small pricing improvements or contract renegotiations in these categories could deliver **disproportionately large margin gains**. These products should be prioritised for strategic sourcing and supplier negotiations.
+
+---
+
+### 2. Cost-Saving Opportunities Are Declining but Still Material
+Total potential savings declined from **$2.34M in 2023 to $1.73M in 2024 (–26%)**.
+
+**Insight:**  
+The reduction in savings potential reflects **narrower price gaps between suppliers**, suggesting increasing price consistency across key products. While this indicates a more mature procurement environment, it also signals that **future savings will require more targeted, strategic negotiation**, rather than relying on obvious price dispersion.
+
+---
+
+### 3. Extreme Supplier Dependency Increases Risk
+Procurement spend is highly concentrated among a small group of suppliers.  
+The **top five vendors account for approximately 63% of total spend in 2024**.
+
+**Insight:**  
+This dependency creates both leverage and vulnerability. While supplier concentration can improve bargaining power, it also exposes the business to **pricing shocks, delivery disruptions, and reduced negotiation flexibility** if a key supplier underperforms or exits.
+
+---
+
+### 4. Clear Seasonal Procurement Patterns Enable Strategic Timing
+Procurement spending follows predictable seasonal cycles:
+- **Spikes:** March–April and June–October  
+- **Dips:** January–March and April–June  
+
+**Insight:**  
+These patterns create opportunities to **time supplier negotiations during quieter periods**, stabilise cash flow, and lock in favourable pricing ahead of peak demand periods.
+
+---
+
+### 5. Product-Level Price Variance Reveals Negotiation Leverage
+The infographic highlights meaningful price differences for identical products across suppliers.  
+For example, **Outback Engineering consistently offers the lowest prices for Carbon and Aluminium Gravel Frames**, while Sunstate Components is the most expensive, with unit price gaps of **$260 and $168 respectively**.
+
+**Insight:**  
+These price variances provide clear evidence to support:
+- Target price setting  
+- Supplier benchmarking  
+- Standardisation of purchasing decisions  
+
+Even modest per-unit differences can translate into **six-figure savings at scale**.
+
+---
+
+
+
+
 
 ### Summary
-By combining clean data preparation, KPI-driven dashboards, and intuitive interactivity, the solution converted thousands of procurement records into **clear, strategic insights**.  
+By combining clean data preparation, KPI-driven dashboards, and intuitive interactivity, the solution converted thousands of procurement records into **clear, strategic insights**. The infographic reinforces that Velocipede Cycles’ procurement challenges are driven by **spend concentration, supplier dependency, and pricing inconsistency**. At the same time, it highlights actionable opportunities to improve margins through **focused negotiation, better supplier strategy, and timing decisions aligned with seasonal demand**.
 This allowed Velocipede Cycles’ leadership team to identify inefficiencies, quantify savings opportunities, and proactively manage supplier risk, because our solution directly addresses the root causes of declining profit margins.
 
 ---
