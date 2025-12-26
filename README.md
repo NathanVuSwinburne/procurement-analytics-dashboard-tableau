@@ -10,6 +10,21 @@ The final solution focuses on turning raw procurement data into **clear, actiona
 > ⚠️ *Educational case study only — no real company or confidential data is used.*
 
 ---
+## User Story
+Velocipede Cycles is a highly successful and expanding Australian-based retail chain specialising in high-quality road, mountain, and gravel bikes, as well as premium components and accessories sourced from leading global brands. With **15 stores operating across major Australian cities**, the company has experienced strong year-on-year sales growth and established a competitive position within the cycling market.
+
+Despite this success, a recent internal review revealed a concerning trend: **net profit margins are beginning to decline**, even as revenue continues to rise. Senior management, led by CEO Jane Smith and COO Mark Williams, suspects that the issue lies not in sales performance but in the **efficiency and visibility of the procurement process**.
+
+Key challenges identified include:
+- Limited visibility into pricing for high-value items such as carbon frames and electronic groupsets  
+- Inconsistent pricing for identical products across different suppliers  
+- Heavy reliance on a small number of key vendors, increasing supply chain risk  
+
+Given the volume and complexity of purchasing transactions, the leadership team lacks the time and resources to manually analyse historical procurement data. As a result, a team of junior analysts was commissioned to conduct a **data-driven deep dive into two years of purchasing data**.
+
+The objective of this project is to move beyond basic cost tracking and deliver **strategic procurement insights**. The final deliverable must be a **professional, visually compelling, and executive-ready dashboard**, designed for time-poor and non-technical stakeholders. Insights should directly support decisions around supplier negotiation, consolidation, diversification, and long-term profitability.
+
+---
 
 ## Project Objectives
 - Establish a **baseline view of procurement performance** using executive KPIs  
