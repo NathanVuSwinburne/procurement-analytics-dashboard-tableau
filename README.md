@@ -90,7 +90,7 @@ A reproducible data preparation flow was used to support transparency and repeat
 ---
 
 ## Key Learnings
-- Effective analytics requires more than charts — **clarity, usability, and context** are critical  
+- Effective analytics requires more than charts because **clarity, usability, and context** are critical  
 - Dashboard interactivity plays a major role in supporting executive decision-making  
 - Learning Tableau expanded my analytics skill set and encouraged **tool-agnostic thinking** about dashboard design  
 - Comparing tools, I found **Power BI’s UX more intuitive for deep customisation**, but Tableau was a fun and valuable platform to learn  
@@ -178,7 +178,7 @@ The solution moved beyond reporting and enabled **direct action**, supporting de
 
 ### Summary
 By combining clean data preparation, KPI-driven dashboards, and intuitive interactivity, the solution converted thousands of procurement records into **clear, strategic insights**.  
-This allowed Velocipede Cycles’ leadership team to identify inefficiencies, quantify savings opportunities, and proactively manage supplier risk — directly addressing the root causes of declining profit margins.
+This allowed Velocipede Cycles’ leadership team to identify inefficiencies, quantify savings opportunities, and proactively manage supplier risk, because our solution directly addresses the root causes of declining profit margins.
 
 ---
 
